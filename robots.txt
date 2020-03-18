@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iaheephoo.supremeone-software.com/sitemap.xml
